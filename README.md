@@ -16,13 +16,13 @@ Power Apps Studio or a compatible environment to run the app.
 **Installation**
 
 **Download the Solution:**
-Download the RockPaperScissor_Managed.zip file from the Releases section of this repository.
+Download the **RockPaperScissor_1_0_0_1_managed.zip** file from the Releases section of this repository.
 
 
 **Import to Power Apps:**
-Open Power Apps Studio.
-Go to Solutions > Import Solution.
-Select the downloaded RockPaperScissor_Managed.zip file and follow the prompts to import.
+1. Open Power Apps Studio.
+2. Go to Solutions > Import Solution.
+3. Select the downloaded RockPaperScissor_Managed.zip file and follow the prompts to import.
 
 
 **Run the App:**
@@ -33,11 +33,11 @@ Open and play the game, or publish it for others to use.
 
 **How to Play**
 
-Launch the app in Power Apps.
-Choose Rock, Paper, or Scissors using the on-screen buttons.
-The computer randomly selects its move.
-View the round result and updated scores.
-Continue playing to compete for the highest score!
+1. Launch the app in Power Apps.
+2. Choose Rock, Paper, or Scissors using the on-screen buttons.
+3. The computer randomly selects its move.
+4. View the round result and updated scores.
+5. Continue playing to compete for the highest score!
 
 **Contributing**
 Contributions are welcome! To contribute:
